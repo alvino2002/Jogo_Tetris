@@ -1,2 +1,4 @@
 # Jogo_Tetris
-Esse projeto tem como objetivo recriar a versão do jogo Tetris, a fim de aprimorar e testar o conhecimento da linguagem C++.
+
+IDE: Microssoft Visual Studio 2022.
+Biblioteca Gráfica: SFML 2.5.1 (64 bits).
