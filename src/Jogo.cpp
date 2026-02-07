@@ -9,17 +9,6 @@ Jogo::Jogo():
 
 Jogo::~Jogo()
 {
-	if (pGE)
-	{
-		delete pGE;
-		pGE = nullptr;
-	}
-
-	if (pGG)
-	{
-		delete pGG;
-		pGG = nullptr;
-	}
 }
 
 void Jogo::rodarJogo()
@@ -40,4 +29,5 @@ void Jogo::rodarJogo()
 		}
 		pGE->executar();
 	}
+
 }
