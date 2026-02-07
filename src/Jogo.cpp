@@ -9,6 +9,7 @@ Jogo::Jogo():
 
 Jogo::~Jogo()
 {
+	
 }
 
 void Jogo::rodarJogo()
@@ -31,3 +32,4 @@ void Jogo::rodarJogo()
 	}
 
 }
+
