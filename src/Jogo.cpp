@@ -30,6 +30,4 @@ void Jogo::rodarJogo()
 		}
 		pGE->executar();
 	}
-
 }
-
